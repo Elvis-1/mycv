@@ -1,0 +1,78 @@
+.body{
+    height: 600px;
+    background: #222;
+    color:#fff;
+    margin-top: -30px;
+}
+
+}
+.mage{
+    border-radius: 40%;
+   
+    border-color: aqua;
+}
+.me{
+    width:300px;
+    margin-top: 100px;
+}
+h1,p{
+    text-align: center;
+    font-weight: bold;
+    line-height: 2.5rem;
+}
+.navbar{
+    background: #222;
+    border: none;
+    border-radius: none;
+    border-color: #222;
+}
+.e,.l,.v,.i,.s{
+    background-color: #fff;
+    color:black;
+    margin-left: 4px;
+    font-weight: bold;
+    padding: 2px;
+    
+}
+.profile-info{
+    margin-top: 100px;
+}
+.expertise{
+    text-align: center;
+    margin-top: 20px;
+}
+.edu{
+    margin-top: 1px;
+}
+
+.about{
+    width: 60%;
+    text-align: center;
+    margin-top: 60px;
+}
+small{
+    line-height: 2rem;
+}
+.mee{
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+#contactMe{
+    background-image: url('image/Elvis-cute.jpg');
+    background: rgba(100,0,0,0.4);
+    padding-bottom: 20px;
+}
+img{
+    width:100%;
+}
+
+
+
+
+
+
+
+
+
+
